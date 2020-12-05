@@ -1093,7 +1093,7 @@ blockquot {
   z-index: -1;
 }
 .bg-overlay-theme3:before {
-  background-color: #3773f4;
+/*   background-color: #3773f4; */
   opacity: .9;
 }
 /* Background Video */
